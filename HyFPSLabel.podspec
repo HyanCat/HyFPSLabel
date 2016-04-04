@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name             = "HyFPSLabel"
   s.version          = "0.1.0"
-  s.summary          = "A Foundation Library."
+  s.summary          = "A label view to show FPS for iOS."
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
 
   s.description      = <<-DESC

@@ -1,9 +1,8 @@
 //
 //  HyFPSLabel.h
-//  Pods
 //
 //  Created by HyanCat on 16/4/4.
-//
+//  Copyright © 2016年 HyanCat. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

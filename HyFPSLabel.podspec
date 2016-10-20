@@ -6,6 +6,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
 
   s.description      = <<-DESC
+  A label view to show FPS for iOS.
                        DESC
 
   s.homepage         = "https://github.com/HyanCat/HyFPSLabel"

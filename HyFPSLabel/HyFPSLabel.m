@@ -6,7 +6,6 @@
 //
 
 #import "HyFPSLabel.h"
-#import <Masonry/Masonry.h>
 
 #define IOS8_OR_LATER ([[[UIDevice currentDevice] systemVersion] floatValue] >= 8.0)
 
